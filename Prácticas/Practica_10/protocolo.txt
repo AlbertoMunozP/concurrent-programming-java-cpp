@@ -1,0 +1,14 @@
+
+1. Navegar a http://www.mpjexpress.org/
+2. Download -> MPJ Express Sofware (version 0.44)
+3. Click en mpj-v_44.zip
+4. Descomprimir
+5. Copiar a C:\
+6. Renombrar la carpeta de mpj-v0_44 a mpj.
+7: Abrir el Panel de Control y escoger Sistema
+8. Escoger Configuración Avanzada del Sistema
+9. Pestaña de Opciones Avanzadas -> Botón de Variables de Entorno.
+10. En Variables del Sistema, escoger botón "Nuevas".
+11. Primer campo es MPJ_HOME y segundo campo es c:\mpj. Ahora, Aceptar.
+12. Editar la variable de Path y añadir %MPJ_HOME%\bin
+13. Abrir un shell estándar (cmd) y probar complilación y ejecución.
