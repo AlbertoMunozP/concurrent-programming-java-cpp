@@ -1,4 +1,4 @@
-# Concurrent Programming (Java & C++)
+# Concurreny and Parallelism - Java & C++
 
 This repository showcases a complete collection of programming assignments focused on Concurrent and Real-Time Programming. 
 The projects progressively explore fundamental topics such as multithreading, synchronization, monitors, executors, mutual exclusion, distributed systems, and performance optimization using Java, MPJ-Express, and C++. 
